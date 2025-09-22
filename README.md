@@ -23,7 +23,7 @@ Permite ingresar nombres de amigos en una lista y luego realizar un sorteo aleat
 
 ## 🖼️ Vista previa
 
-Vista previa del juego! (assets/captura.png)
+Vista previa del juego! <img src="assets/captura.png">
 
 
 
